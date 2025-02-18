@@ -11,3 +11,4 @@ I have developed AI-powered applications, automated workflows, and real-time mon
 I am passionate about problem-solving, debugging, and developing cutting-edge applications. Currently, I am actively looking for Software Development, Full-Stack Development, and Data Engineering opportunities, where I can apply my skills to build impactful and innovative solutions.
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=jayasaipadala&layout=compact&theme=radical
