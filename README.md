@@ -1,4 +1,4 @@
-# veeravenkatanagasuryajayasai---padala
+# veeravenkatanagasuryajayasai-padala
 
 I am a graduate student studying computer science at Southeast missori state University with a focus on web development and data science. I'm now seeking for internship and full-time positions to broaden my professional experience.
 
